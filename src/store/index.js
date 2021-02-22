@@ -1,11 +1,17 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import appone from './modules/appone'
+import apptwo from './modules/apptwo'
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-  state: {},
-  mutations: {},
+  state : {},
+  getters:{},
   actions: {},
-  modules: {}
+  mutations:{},
+  modules : {
+    appone,
+    apptwo
+  }
 });
