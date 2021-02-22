@@ -4,11 +4,12 @@
 
 - Reusable components 
 - Vuex **modules** system
+<img src="https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD/blob/master/public/app.png" width='100%'/>
 
 ### clone  
 
 ```js
-
+git clone https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD.git
 ```
 
 
