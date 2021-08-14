@@ -1,12 +1,12 @@
 # Vue, Vue-router , Vuex CRUD App
 
-
-
 - Reusable components 
 - Vuex **modules** system
-<img src="https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD/blob/master/public/app.png" width='100%'/>
 
-### clone  
+### App Photo
+<img src="https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD/blob/master/public/app.png" alt="app.png" width='100%'/>
+
+### Clone Repository
 
 ```js
 git clone https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD.git
@@ -35,6 +35,7 @@ npm run serve
 - vue
 - vue-router
 - vuex
+- localStorage
 
 
 
