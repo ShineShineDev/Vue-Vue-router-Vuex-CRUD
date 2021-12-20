@@ -17,6 +17,7 @@ git clone https://github.com/ShineShineDev/Vue-Vue-router-Vuex-CRUD.git
 ### Install dependencies
 
 ```
+cd Vue-Vue-router-Vuex-CRUD
 npm install
 ```
 
